@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles:  failure to properly copy or include the `package.json` file, leading to a build failure. The initial `Dockerfile` showcases the error. The `Dockerfile.fixed` provides the corrected version.
